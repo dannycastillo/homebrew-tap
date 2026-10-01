@@ -5,8 +5,8 @@
 class AiHarness < Formula
   desc "One todo, one branch, one worktree; trunk merged by one verb"
   homepage "https://github.com/dannycastillo/ai-harness"
-  url "https://github.com/dannycastillo/ai-harness/releases/download/v0.2.0/ai-harness-0.2.0.tar.gz"
-  sha256 "f23f3f8c8857ca6e96d3ffa4003e8c66729efa32548bd2e2a8547e13827ed9bd"
+  url "https://github.com/dannycastillo/ai-harness/releases/download/v0.2.1/ai-harness-0.2.1.tar.gz"
+  sha256 "69186aca40e7072684fbb320cbc7ded9822b7218a94699e009ad6f00e5329728"
   license "MIT"
 
   def install
